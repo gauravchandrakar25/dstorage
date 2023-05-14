@@ -18,8 +18,8 @@ The Decentralized Storage Project aims to provide a decentralized and secure pla
 ## Prerequisites
 Make sure you have the following tools installed:
 
-- Truffle: Installation Guide
-- Node.js and npm: Download Page
+- Truffle
+- Node.js and npm
 
 ## Getting Started
 1. Clone the repository
