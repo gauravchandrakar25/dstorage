@@ -4,7 +4,6 @@ import Navbar from './Navbar'
 import Main from './Main'
 import Web3 from 'web3';
 import './App.css';
-import { create } from 'ipfs-http-client'
 
 const projectId = '2On1EQlIKJaMLELAfi7FlNKtXJk';
 const projectSecret = '82bc4f6ba52671412089ee1c94ef2fbc';
