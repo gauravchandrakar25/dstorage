@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Identicon from 'identicon.js';
-import box from '../box.png'
+// import box from '../box.png'
 import database from "../database.svg"
 
 class Navbar extends Component {
