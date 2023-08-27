@@ -5,8 +5,8 @@ import Main from './Main'
 import Web3 from 'web3';
 import './App.css';
 
-const projectId = '2On1EQlIKJaMLELAfi7FlNKtXJk';
-const projectSecret = '82bc4f6ba52671412089ee1c94ef2fbc';
+const projectId = '';
+const projectSecret = '';
 const auth = 'Basic ' + Buffer.from(projectId + ':' + projectSecret).toString('base64');
 // const ipfs = create({
 //   host: 'ipfs.infura.io',
